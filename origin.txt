@@ -1,0 +1,12 @@
+Uri: http://jin.energy/
+File Name: c:\Downloaded Web Sites\jin.energy\index.htm
+Content Type: text/html
+
+Uri: http://jin.energy/css/style.css?v=2
+File Name: c:\Downloaded Web Sites\jin.energy\css\style.css
+Content Type: text/css
+
+Uri: http://jin.energy/img/ico.svg
+File Name: c:\Downloaded Web Sites\jin.energy\img\ico.svg
+Content Type: image/svg+xml
+
