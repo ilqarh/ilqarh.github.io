@@ -1,0 +1,1551 @@
+#EXTM3U
+#EXTINF:0 tvg-name="ch001"  tvg-logo="http://tv.team/images/chIcons/1.png"  timeshift="6", Первый HD
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch1089"  tvg-logo="http://tv.team/images/chIcons/1089.png"  timeshift="0", Первый HD (Uncomp)
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch1643"  tvg-logo="http://tv.team/images/chIcons/1643.png"  timeshift="0", Первый
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch363"  tvg-logo="http://tv.team/images/chIcons/363.png"  timeshift="3", Первый +2
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch364"  tvg-logo="http://tv.team/images/chIcons/364.png"  timeshift="3", Первый +4
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch386"  tvg-logo="http://tv.team/images/chIcons/386.png"  timeshift="3", Первый +6
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch387"  tvg-logo="http://tv.team/images/chIcons/387.png"  timeshift="3", Первый +8
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch635"  tvg-logo="http://tv.team/images/chIcons/635.png"  timeshift="3", Первый HD +4
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch649"  tvg-logo="http://tv.team/images/chIcons/649.png"  timeshift="3", Первый Евpопa
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch002"  tvg-logo="http://tv.team/images/chIcons/2.png"  timeshift="6", Россия 1 HD
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch853"  tvg-logo="http://tv.team/images/chIcons/853.png"  timeshift="0", Россия 1 HD (Uncomp)
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch1644"  tvg-logo="http://tv.team/images/chIcons/1644.png"  timeshift="0", Россия 1
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch365"  tvg-logo="http://tv.team/images/chIcons/365.png"  timeshift="3", Россия 1 +2
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch366"  tvg-logo="http://tv.team/images/chIcons/366.png"  timeshift="3", Россия 1 +4
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch388"  tvg-logo="http://tv.team/images/chIcons/388.png"  timeshift="3", Россия 1 +6
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch389"  tvg-logo="http://tv.team/images/chIcons/389.png"  timeshift="3", Россия 1 +8
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch102"  tvg-logo="http://tv.team/images/chIcons/102.png"  timeshift="3", Россия-Культуpa
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch337"  tvg-logo="http://tv.team/images/chIcons/337.png"  timeshift="3", РТР Планета
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch025"  tvg-logo="http://tv.team/images/chIcons/25.png"  timeshift="6", Пятница! HD
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch412"  tvg-logo="http://tv.team/images/chIcons/412.png"  timeshift="3", Пятница +2
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch413"  tvg-logo="http://tv.team/images/chIcons/413.png"  timeshift="3", Пятница +6
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch004"  tvg-logo="http://tv.team/images/chIcons/4.png"  timeshift="6", Рен ТВ HD
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch371"  tvg-logo="http://tv.team/images/chIcons/371.png"  timeshift="3", Рен ТВ +2
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch1059"  tvg-logo="http://tv.team/images/chIcons/1059.png"  timeshift="0", Рен ТВ +4
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch401"  tvg-logo="http://tv.team/images/chIcons/401.png"  timeshift="3", Рен ТВ +6
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch2312"  tvg-logo="http://tv.team/images/chIcons/2312.png"  timeshift="3", Рен ТВ International
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch003"  tvg-logo="http://tv.team/images/chIcons/3.png"  timeshift="6", НТВ HD
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch1949"  tvg-logo="http://tv.team/images/chIcons/1949.png"  timeshift="0", НТВ HD (Uncomp)
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch2453"  tvg-logo="http://tv.team/images/chIcons/2453.png"  timeshift="0", НТВ
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch367"  tvg-logo="http://tv.team/images/chIcons/367.png"  timeshift="3", НТВ +2
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch368"  tvg-logo="http://tv.team/images/chIcons/368.png"  timeshift="3", НТВ +4
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch390"  tvg-logo="http://tv.team/images/chIcons/390.png"  timeshift="3", НТВ +6
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch391"  tvg-logo="http://tv.team/images/chIcons/391.png"  timeshift="3", НТВ +8
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch021"  tvg-logo="http://tv.team/images/chIcons/21.png"  timeshift="6", СТС HD
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch2033"  tvg-logo="http://tv.team/images/chIcons/2033.png"  timeshift="0", СТС HD (Uncomp)
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch398"  tvg-logo="http://tv.team/images/chIcons/398.png"  timeshift="3", СТС +2
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch399"  tvg-logo="http://tv.team/images/chIcons/399.png"  timeshift="3", СТС +4
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch400"  tvg-logo="http://tv.team/images/chIcons/400.png"  timeshift="3", СТС +6
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch2309"  tvg-logo="http://tv.team/images/chIcons/2309.png"  timeshift="3", СТС International
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch005"  tvg-logo="http://tv.team/images/chIcons/5.png"  timeshift="6", ТНТ HD
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch1950"  tvg-logo="http://tv.team/images/chIcons/1950.png"  timeshift="0", ТНТ HD (Uncomp)
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch369"  tvg-logo="http://tv.team/images/chIcons/369.png"  timeshift="3", ТНТ +2
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch370"  tvg-logo="http://tv.team/images/chIcons/370.png"  timeshift="3", ТНТ +4
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch397"  tvg-logo="http://tv.team/images/chIcons/397.png"  timeshift="3", ТНТ +6
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch2335"  tvg-logo="http://tv.team/images/chIcons/2335.png"  timeshift="0", ТНТ International
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch014"  tvg-logo="http://tv.team/images/chIcons/14.png"  timeshift="6", ТНТ4 HD
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch423"  tvg-logo="http://tv.team/images/chIcons/423.png"  timeshift="3", ТНТ4 +2
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch424"  tvg-logo="http://tv.team/images/chIcons/424.png"  timeshift="3", ТНТ4 +4
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch006"  tvg-logo="http://tv.team/images/chIcons/6.png"  timeshift="3", Москва 24
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch022"  tvg-logo="http://tv.team/images/chIcons/22.png"  timeshift="6", ТВЦ
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch374"  tvg-logo="http://tv.team/images/chIcons/374.png"  timeshift="3", ТВЦ +2
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch393"  tvg-logo="http://tv.team/images/chIcons/393.png"  timeshift="3", ТВЦ +4
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch394"  tvg-logo="http://tv.team/images/chIcons/394.png"  timeshift="3", ТВЦ +6
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch2308"  tvg-logo="http://tv.team/images/chIcons/2308.png"  timeshift="0", ТВЦ International
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch023"  tvg-logo="http://tv.team/images/chIcons/23.png"  timeshift="6", Звезда
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch373"  tvg-logo="http://tv.team/images/chIcons/373.png"  timeshift="0", Звезда +2
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch406"  tvg-logo="http://tv.team/images/chIcons/406.png"  timeshift="0", Звезда +4
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch407"  tvg-logo="http://tv.team/images/chIcons/407.png"  timeshift="0", Звезда +6
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch724"  tvg-logo="http://tv.team/images/chIcons/724.png"  timeshift="6", Звезда Плюс
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch066"  tvg-logo="http://tv.team/images/chIcons/66.png"  timeshift="6", Победа
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch068"  tvg-logo="http://tv.team/images/chIcons/68.png"  timeshift="6", Пятый Канал
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch372"  tvg-logo="http://tv.team/images/chIcons/372.png"  timeshift="0", Пятый Канал +2
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch395"  tvg-logo="http://tv.team/images/chIcons/395.png"  timeshift="0", Пятый Канал +4
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch396"  tvg-logo="http://tv.team/images/chIcons/396.png"  timeshift="0", Пятый Канал +6
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch2310"  tvg-logo="http://tv.team/images/chIcons/2310.png"  timeshift="3", Пятый Канал International
+#EXTGRP:1. Federal/Федеральные
+#EXTINF:0 tvg-name="ch007"  tvg-logo="http://tv.team/images/chIcons/7.png"  timeshift="0", Pоссия 24
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch099"  tvg-logo="http://tv.team/images/chIcons/99.png"  timeshift="0", РБК НD
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch127"  tvg-logo="http://tv.team/images/chIcons/127.png"  timeshift="0", RT HD
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch088"  tvg-logo="http://tv.team/images/chIcons/88.png"  timeshift="3", Дождь
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch509"  tvg-logo="http://tv.team/images/chIcons/509.png"  timeshift="0", Извеcтия
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch510"  tvg-logo="http://tv.team/images/chIcons/510.png"  timeshift="0", Мир 24
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch528"  tvg-logo="http://tv.team/images/chIcons/528.png"  timeshift="0", Нaстоящее время HD
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch532"  tvg-logo="http://tv.team/images/chIcons/532.png"  timeshift="0", 360 Нoвости
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch498"  tvg-logo="http://tv.team/images/chIcons/498.png"  timeshift="1", EuroNews
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch499"  tvg-logo="http://tv.team/images/chIcons/499.png"  timeshift="0", BBC World News Europe
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch500"  tvg-logo="http://tv.team/images/chIcons/500.png"  timeshift="0", CNN
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch2093"  tvg-logo="http://tv.team/images/chIcons/2093.png"  timeshift="0", FOX News HD
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch100"  tvg-logo="http://tv.team/images/chIcons/100.png"  timeshift="3", RTVI
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch1943"  tvg-logo="http://tv.team/images/chIcons/1943.png"  timeshift="0", Asharq News
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch1944"  tvg-logo="http://tv.team/images/chIcons/1944.png"  timeshift="0", France 24
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch1945"  tvg-logo="http://tv.team/images/chIcons/1945.png"  timeshift="0", Al Jazeera
+#EXTGRP:2. News/Новости
+#EXTINF:0 tvg-name="ch008"  tvg-logo="http://tv.team/images/chIcons/8.png"  timeshift="3", Киносемья HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch2036"  tvg-logo="http://tv.team/images/chIcons/2036.png"  timeshift="0", Киносемья HD (Uncomp)
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch009"  tvg-logo="http://tv.team/images/chIcons/9.png"  timeshift="3", Кинохит HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch2037"  tvg-logo="http://tv.team/images/chIcons/2037.png"  timeshift="0", Кинохит HD (Uncomp)
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch010"  tvg-logo="http://tv.team/images/chIcons/10.png"  timeshift="3", Киносвидание HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch015"  tvg-logo="http://tv.team/images/chIcons/15.png"  timeshift="3", Наше новое кино
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch079"  tvg-logo="http://tv.team/images/chIcons/79.png"  timeshift="3", Киномикс HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch2034"  tvg-logo="http://tv.team/images/chIcons/2034.png"  timeshift="0", Киномикс HD (Uncomp)
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch054"  tvg-logo="http://tv.team/images/chIcons/54.png"  timeshift="3", Кинопремьера HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch2035"  tvg-logo="http://tv.team/images/chIcons/2035.png"  timeshift="0", Кинопремьера HD (Uncomp)
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch112"  tvg-logo="http://tv.team/images/chIcons/112.png"  timeshift="3", Мужское кино HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch116"  tvg-logo="http://tv.team/images/chIcons/116.png"  timeshift="3", Родное кино
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch461"  tvg-logo="http://tv.team/images/chIcons/461.png"  timeshift="3", Индийское кино
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch668"  tvg-logo="http://tv.team/images/chIcons/668.png"  timeshift="3", Киносерия HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch652"  tvg-logo="http://tv.team/images/chIcons/652.png"  timeshift="3", Киноужас HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch460"  tvg-logo="http://tv.team/images/chIcons/460.png"  timeshift="3", Кинокомедия HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch495"  tvg-logo="http://tv.team/images/chIcons/495.png"  timeshift="3", Start World HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch506"  tvg-logo="http://tv.team/images/chIcons/506.png"  timeshift="3", Start Air HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch651"  tvg-logo="http://tv.team/images/chIcons/651.png"  timeshift="3", Viasat Kino World HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch017"  tvg-logo="http://tv.team/images/chIcons/17.png"  timeshift="3", Viju TV 1000 HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch018"  tvg-logo="http://tv.team/images/chIcons/18.png"  timeshift="3", Viju TV 1000 Action HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch013"  tvg-logo="http://tv.team/images/chIcons/13.png"  timeshift="3", Viju TV 1000 Русское HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch058"  tvg-logo="http://tv.team/images/chIcons/58.png"  timeshift="3", Viju+ Comedy HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch060"  tvg-logo="http://tv.team/images/chIcons/60.png"  timeshift="3", Viju+ Premiere HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch2438"  tvg-logo="http://tv.team/images/chIcons/2438.png"  timeshift="0", Viju+ Premiere HD (Uncomp)
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch059"  tvg-logo="http://tv.team/images/chIcons/59.png"  timeshift="3", Viju+ Megahit HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch2439"  tvg-logo="http://tv.team/images/chIcons/2439.png"  timeshift="0", Viju+ Megahit HD (Uncomp)
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch701"  tvg-logo="http://tv.team/images/chIcons/701.png"  timeshift="3", Viju+ Serial HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch032"  tvg-logo="http://tv.team/images/chIcons/32.png"  timeshift="3", Amedia Hit HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch421"  tvg-logo="http://tv.team/images/chIcons/421.png"  timeshift="3", Amedia 1 HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch515"  tvg-logo="http://tv.team/images/chIcons/515.png"  timeshift="3", Amedia 2 HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch065"  tvg-logo="http://tv.team/images/chIcons/65.png"  timeshift="3", Amedia Premium HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch117"  tvg-logo="http://tv.team/images/chIcons/117.png"  timeshift="3", НСТ
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch336"  tvg-logo="http://tv.team/images/chIcons/336.png"  timeshift="3", Мосфильм HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch077"  tvg-logo="http://tv.team/images/chIcons/77.png"  timeshift="3", Кино ТВ HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch072"  tvg-logo="http://tv.team/images/chIcons/72.png"  timeshift="3", Остросюжетное HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch078"  tvg-logo="http://tv.team/images/chIcons/78.png"  timeshift="3", Дом Кино
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch080"  tvg-logo="http://tv.team/images/chIcons/80.png"  timeshift="3", Дом Кино Премиум HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch033"  tvg-logo="http://tv.team/images/chIcons/33.png"  timeshift="3", ЕвроКино
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch024"  tvg-logo="http://tv.team/images/chIcons/24.png"  timeshift="6", ТВ3
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch409"  tvg-logo="http://tv.team/images/chIcons/409.png"  timeshift="0", ТВ 3 +2
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch410"  tvg-logo="http://tv.team/images/chIcons/410.png"  timeshift="0", ТВ 3 +4
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch411"  tvg-logo="http://tv.team/images/chIcons/411.png"  timeshift="0", ТВ 3 +6
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch110"  tvg-logo="http://tv.team/images/chIcons/110.png"  timeshift="3", Домашний
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch417"  tvg-logo="http://tv.team/images/chIcons/417.png"  timeshift="0", Домашний +2
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch2027"  tvg-logo="http://tv.team/images/chIcons/2027.png"  timeshift="0", Домашний +4
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch418"  tvg-logo="http://tv.team/images/chIcons/418.png"  timeshift="0", Домашний +6
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch2311"  tvg-logo="http://tv.team/images/chIcons/2311.png"  timeshift="3", Домашний International
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch620"  tvg-logo="http://tv.team/images/chIcons/620.png"  timeshift="3", НTВ Cериал
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch568"  tvg-logo="http://tv.team/images/chIcons/568.png"  timeshift="3", НTВ Xит
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch103"  tvg-logo="http://tv.team/images/chIcons/103.png"  timeshift="3", Fox HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch104"  tvg-logo="http://tv.team/images/chIcons/104.png"  timeshift="3", Fox life
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch470"  tvg-logo="http://tv.team/images/chIcons/470.png"  timeshift="3", Scream
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch084"  tvg-logo="http://tv.team/images/chIcons/84.png"  timeshift="3", Премиальное HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch098"  tvg-logo="http://tv.team/images/chIcons/98.png"  timeshift="3", Романтичное HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch114"  tvg-logo="http://tv.team/images/chIcons/114.png"  timeshift="3", Иллюзион+
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch115"  tvg-logo="http://tv.team/images/chIcons/115.png"  timeshift="3", Русский бестселлер
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch101"  tvg-logo="http://tv.team/images/chIcons/101.png"  timeshift="3", Русский Иллюзион
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch132"  tvg-logo="http://tv.team/images/chIcons/132.png"  timeshift="3", Русский роман
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch462"  tvg-logo="http://tv.team/images/chIcons/462.png"  timeshift="3", Русский Детектив
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch105"  tvg-logo="http://tv.team/images/chIcons/105.png"  timeshift="3", Комедия
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch463"  tvg-logo="http://tv.team/images/chIcons/463.png"  timeshift="3", Любимое Кино
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch134"  tvg-logo="http://tv.team/images/chIcons/134.png"  timeshift="3", Шокирующее HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch136"  tvg-logo="http://tv.team/images/chIcons/136.png"  timeshift="3", Комедийное HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch2127"  tvg-logo="http://tv.team/images/chIcons/2127.png"  timeshift="3", Криминальное HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch131"  tvg-logo="http://tv.team/images/chIcons/131.png"  timeshift="3", Наше HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch139"  tvg-logo="http://tv.team/images/chIcons/139.png"  timeshift="3", Наше любимое HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch140"  tvg-logo="http://tv.team/images/chIcons/140.png"  timeshift="3", Душевное HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch714"  tvg-logo="http://tv.team/images/chIcons/714.png"  timeshift="3", Наш Кинопоказ HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch589"  tvg-logo="http://tv.team/images/chIcons/589.png"  timeshift="3", Наше Мужское HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch326"  tvg-logo="http://tv.team/images/chIcons/326.png"  timeshift="0", Bollywood HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch459"  tvg-logo="http://tv.team/images/chIcons/459.png"  timeshift="3", Plan B HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch464"  tvg-logo="http://tv.team/images/chIcons/464.png"  timeshift="3", .Sci-Fi
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch465"  tvg-logo="http://tv.team/images/chIcons/465.png"  timeshift="3", .Black
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch070"  tvg-logo="http://tv.team/images/chIcons/70.png"  timeshift="3", .Red HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch466"  tvg-logo="http://tv.team/images/chIcons/466.png"  timeshift="3", Кинопоказ
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch467"  tvg-logo="http://tv.team/images/chIcons/467.png"  timeshift="3", Синема HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch468"  tvg-logo="http://tv.team/images/chIcons/468.png"  timeshift="3", Страшное HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch469"  tvg-logo="http://tv.team/images/chIcons/469.png"  timeshift="3", TV XXI Век
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch501"  tvg-logo="http://tv.team/images/chIcons/501.png"  timeshift="3", Fan HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch505"  tvg-logo="http://tv.team/images/chIcons/505.png"  timeshift="3", Феникс+ Кино
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch508"  tvg-logo="http://tv.team/images/chIcons/508.png"  timeshift="3", Ретро
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch525"  tvg-logo="http://tv.team/images/chIcons/525.png"  timeshift="3", Hollywood HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch1675"  tvg-logo="http://tv.team/images/chIcons/1675.png"  timeshift="3", Hollywood
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch535"  tvg-logo="http://tv.team/images/chIcons/535.png"  timeshift="3", Дорама HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch537"  tvg-logo="http://tv.team/images/chIcons/537.png"  timeshift="3", Еврокино HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch543"  tvg-logo="http://tv.team/images/chIcons/543.png"  timeshift="3", Тайна
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch585"  tvg-logo="http://tv.team/images/chIcons/585.png"  timeshift="3", Star Family HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch560"  tvg-logo="http://tv.team/images/chIcons/560.png"  timeshift="3", Индия
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch604"  tvg-logo="http://tv.team/images/chIcons/604.png"  timeshift="3", Болт
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch636"  tvg-logo="http://tv.team/images/chIcons/636.png"  timeshift="3", Мир сериала
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch623"  tvg-logo="http://tv.team/images/chIcons/623.png"  timeshift="3", AMC
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch619"  tvg-logo="http://tv.team/images/chIcons/619.png"  timeshift="3", Киноман
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch681"  tvg-logo="http://tv.team/images/chIcons/681.png"  timeshift="3", Epic Drama HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch684"  tvg-logo="http://tv.team/images/chIcons/684.png"  timeshift="3", FilmBox ArtHouse
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch689"  tvg-logo="http://tv.team/images/chIcons/689.png"  timeshift="3", Блокбастер HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch690"  tvg-logo="http://tv.team/images/chIcons/690.png"  timeshift="3", Про Любовь HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch691"  tvg-logo="http://tv.team/images/chIcons/691.png"  timeshift="3", Хит HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch692"  tvg-logo="http://tv.team/images/chIcons/692.png"  timeshift="3", Камеди HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch703"  tvg-logo="http://tv.team/images/chIcons/703.png"  timeshift="3", День Победы HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch709"  tvg-logo="http://tv.team/images/chIcons/709.png"  timeshift="3", FlixSnip HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch712"  tvg-logo="http://tv.team/images/chIcons/712.png"  timeshift="3", Shot
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch730"  tvg-logo="http://tv.team/images/chIcons/730.png"  timeshift="3", Trash HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch2069"  tvg-logo="http://tv.team/images/chIcons/2069.png"  timeshift="0", Kinoliving
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch2077"  tvg-logo="http://tv.team/images/chIcons/2077.png"  timeshift="3", Сапфир HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch2079"  tvg-logo="http://tv.team/images/chIcons/2079.png"  timeshift="3", Кинеко HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch1878"  tvg-logo="http://tv.team/images/chIcons/1878.png"  timeshift="0", Dizi
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch1116"  tvg-logo="http://tv.team/images/chIcons/1116.png"  timeshift="0", C More Hits HD
+#EXTGRP:3. Movies/Кино
+#EXTINF:0 tvg-name="ch1272"  tvg-logo="http://tv.team/images/chIcons/1272.png"  timeshift="3", Premiumgroup Premiere HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch128"  tvg-logo="http://tv.team/images/chIcons/128.png"  timeshift="3", Premiumgroup Premium HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1187"  tvg-logo="http://tv.team/images/chIcons/1187.png"  timeshift="3", Premiumgroup Thriller HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1179"  tvg-logo="http://tv.team/images/chIcons/1179.png"  timeshift="3", Premiumgroup Paradox HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1196"  tvg-logo="http://tv.team/images/chIcons/1196.png"  timeshift="3", Premiumgroup РуКино HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch451"  tvg-logo="http://tv.team/images/chIcons/451.png"  timeshift="3", Premiumgroup Paradise HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1166"  tvg-logo="http://tv.team/images/chIcons/1166.png"  timeshift="3", Premiumgroup Victory HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1180"  tvg-logo="http://tv.team/images/chIcons/1180.png"  timeshift="3", Premiumgroup Serial HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1042"  tvg-logo="http://tv.team/images/chIcons/1042.png"  timeshift="3", Premiumgroup USSR HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch496"  tvg-logo="http://tv.team/images/chIcons/496.png"  timeshift="3", Premiumgroup VHS HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch416"  tvg-logo="http://tv.team/images/chIcons/416.png"  timeshift="3", Premiumgroup Insomnia HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch769"  tvg-logo="http://tv.team/images/chIcons/769.png"  timeshift="3", BCU Action HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch770"  tvg-logo="http://tv.team/images/chIcons/770.png"  timeshift="3", BCU Catastrophe HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch771"  tvg-logo="http://tv.team/images/chIcons/771.png"  timeshift="3", BCU Cinema HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch834"  tvg-logo="http://tv.team/images/chIcons/834.png"  timeshift="3", BCU Cinema+ HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch772"  tvg-logo="http://tv.team/images/chIcons/772.png"  timeshift="3", BCU Comedy HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1000"  tvg-logo="http://tv.team/images/chIcons/1000.png"  timeshift="3", BCU Comedy OLD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch773"  tvg-logo="http://tv.team/images/chIcons/773.png"  timeshift="3", BCU Fantastic HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch774"  tvg-logo="http://tv.team/images/chIcons/774.png"  timeshift="3", BCU Filmystic HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch776"  tvg-logo="http://tv.team/images/chIcons/776.png"  timeshift="3", BCU Kinorating HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch777"  tvg-logo="http://tv.team/images/chIcons/777.png"  timeshift="3", BCU Marvel HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch311"  tvg-logo="http://tv.team/images/chIcons/311.png"  timeshift="3", BCU Marvel OLD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch778"  tvg-logo="http://tv.team/images/chIcons/778.png"  timeshift="3", BCU Premiere HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch835"  tvg-logo="http://tv.team/images/chIcons/835.png"  timeshift="3", BCU Stars HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch785"  tvg-logo="http://tv.team/images/chIcons/785.png"  timeshift="3", BCU Reality HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch782"  tvg-logo="http://tv.team/images/chIcons/782.png"  timeshift="3", BCU Premiere 1 HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch783"  tvg-logo="http://tv.team/images/chIcons/783.png"  timeshift="3", BCU Premiere 2 HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch784"  tvg-logo="http://tv.team/images/chIcons/784.png"  timeshift="3", BCU Premiere 3 HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch779"  tvg-logo="http://tv.team/images/chIcons/779.png"  timeshift="3", BCU Romantic HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1545"  tvg-logo="http://tv.team/images/chIcons/1545.png"  timeshift="3", BCU Romantic OLD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch775"  tvg-logo="http://tv.team/images/chIcons/775.png"  timeshift="3", BCU History HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch780"  tvg-logo="http://tv.team/images/chIcons/780.png"  timeshift="3", BCU Russian HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch781"  tvg-logo="http://tv.team/images/chIcons/781.png"  timeshift="3", BCU VHS HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch788"  tvg-logo="http://tv.team/images/chIcons/788.png"  timeshift="3", BCU RUSerial HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch789"  tvg-logo="http://tv.team/images/chIcons/789.png"  timeshift="3", BCU СССР HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch790"  tvg-logo="http://tv.team/images/chIcons/790.png"  timeshift="3", BCU Media HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch590"  tvg-logo="http://tv.team/images/chIcons/590.png"  timeshift="3", BCU Media OLD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1026"  tvg-logo="http://tv.team/images/chIcons/1026.png"  timeshift="3", BCU Cosmo HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1003"  tvg-logo="http://tv.team/images/chIcons/1003.png"  timeshift="3", BCU Cosma OLD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1429"  tvg-logo="http://tv.team/images/chIcons/1429.png"  timeshift="3", BCU TruMotion HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch145"  tvg-logo="http://tv.team/images/chIcons/145.png"  timeshift="3", BCU Сваты HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch827"  tvg-logo="http://tv.team/images/chIcons/827.png"  timeshift="3", BCU Criminal HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1444"  tvg-logo="http://tv.team/images/chIcons/1444.png"  timeshift="3", BCU Survival HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1445"  tvg-logo="http://tv.team/images/chIcons/1445.png"  timeshift="3", BCU Survival OLD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch542"  tvg-logo="http://tv.team/images/chIcons/542.png"  timeshift="3", Киноджем 1 HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch521"  tvg-logo="http://tv.team/images/chIcons/521.png"  timeshift="3", Киноджем 2 HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1004"  tvg-logo="http://tv.team/images/chIcons/1004.png"  timeshift="3", KBC-B.O.B
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1005"  tvg-logo="http://tv.team/images/chIcons/1005.png"  timeshift="3", KBC-Comics
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1006"  tvg-logo="http://tv.team/images/chIcons/1006.png"  timeshift="3", KBC-Elite comedys
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1007"  tvg-logo="http://tv.team/images/chIcons/1007.png"  timeshift="3", KBC-Family Animation
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1008"  tvg-logo="http://tv.team/images/chIcons/1008.png"  timeshift="3", KBC-Fantastic
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1009"  tvg-logo="http://tv.team/images/chIcons/1009.png"  timeshift="3", KBC-History
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1010"  tvg-logo="http://tv.team/images/chIcons/1010.png"  timeshift="3", KBC-Light сериал RU
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1011"  tvg-logo="http://tv.team/images/chIcons/1011.png"  timeshift="3", KBC-Newfilm
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1012"  tvg-logo="http://tv.team/images/chIcons/1012.png"  timeshift="3", KBC-Premium
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1013"  tvg-logo="http://tv.team/images/chIcons/1013.png"  timeshift="3", KBC-Russian Комедия
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1015"  tvg-logo="http://tv.team/images/chIcons/1015.png"  timeshift="3", KBC-Легендарное
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1016"  tvg-logo="http://tv.team/images/chIcons/1016.png"  timeshift="3", KBC-Видак
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1017"  tvg-logo="http://tv.team/images/chIcons/1017.png"  timeshift="3", KBC-Гай Ritchie and Tarantino
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1018"  tvg-logo="http://tv.team/images/chIcons/1018.png"  timeshift="3", KBC-Dramatic
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1019"  tvg-logo="http://tv.team/images/chIcons/1019.png"  timeshift="3", KBC-Кинотеатр
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1020"  tvg-logo="http://tv.team/images/chIcons/1020.png"  timeshift="3", KBC-Кошмарное
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1023"  tvg-logo="http://tv.team/images/chIcons/1023.png"  timeshift="3", KBC-Страна СССР
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1024"  tvg-logo="http://tv.team/images/chIcons/1024.png"  timeshift="3", KBC-Криминальный Serial
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2066"  tvg-logo="http://tv.team/images/chIcons/2066.png"  timeshift="3", KBC-Гоблин
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1025"  tvg-logo="http://tv.team/images/chIcons/1025.png"  timeshift="3", KBC-Шпионское
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1030"  tvg-logo="http://tv.team/images/chIcons/1030.png"  timeshift="3", CineMan
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2142"  tvg-logo="http://tv.team/images/chIcons/2142.png"  timeshift="3", CineMan Premium
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1031"  tvg-logo="http://tv.team/images/chIcons/1031.png"  timeshift="3", CineMan Top
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1032"  tvg-logo="http://tv.team/images/chIcons/1032.png"  timeshift="3", CineMan Action
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1033"  tvg-logo="http://tv.team/images/chIcons/1033.png"  timeshift="3", CineMan Thriller
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1074"  tvg-logo="http://tv.team/images/chIcons/1074.png"  timeshift="3", CineMan Катастрофы
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1034"  tvg-logo="http://tv.team/images/chIcons/1034.png"  timeshift="3", CineMan Melodrama
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1035"  tvg-logo="http://tv.team/images/chIcons/1035.png"  timeshift="3", CineMan Marvel
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1036"  tvg-logo="http://tv.team/images/chIcons/1036.png"  timeshift="3", CineMan Ужасы
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1037"  tvg-logo="http://tv.team/images/chIcons/1037.png"  timeshift="3", CineMan Комедия
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1038"  tvg-logo="http://tv.team/images/chIcons/1038.png"  timeshift="3", CineMan VHS
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1039"  tvg-logo="http://tv.team/images/chIcons/1039.png"  timeshift="3", CineMan РуКино
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1040"  tvg-logo="http://tv.team/images/chIcons/1040.png"  timeshift="3", CineMan Сваты
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1325"  tvg-logo="http://tv.team/images/chIcons/1325.png"  timeshift="0", CineMan Ментовские войны
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1326"  tvg-logo="http://tv.team/images/chIcons/1326.png"  timeshift="0", CineMan ПёС
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1327"  tvg-logo="http://tv.team/images/chIcons/1327.png"  timeshift="0", CineMan Лесник
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1622"  tvg-logo="http://tv.team/images/chIcons/1622.png"  timeshift="0", CineMan Скорая помощь
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2067"  tvg-logo="http://tv.team/images/chIcons/2067.png"  timeshift="3", CineMan Miniseries
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1219"  tvg-logo="http://tv.team/images/chIcons/1219.png"  timeshift="3", MM NewFilm RU HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1216"  tvg-logo="http://tv.team/images/chIcons/1216.png"  timeshift="3", MM NewFilm 1 HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1217"  tvg-logo="http://tv.team/images/chIcons/1217.png"  timeshift="3", MM NewFilm 2 HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1218"  tvg-logo="http://tv.team/images/chIcons/1218.png"  timeshift="3", MM NewFilm 3 HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1215"  tvg-logo="http://tv.team/images/chIcons/1215.png"  timeshift="3", MM Love HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1222"  tvg-logo="http://tv.team/images/chIcons/1222.png"  timeshift="3", MM UFO HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1214"  tvg-logo="http://tv.team/images/chIcons/1214.png"  timeshift="3", MM 007 HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1229"  tvg-logo="http://tv.team/images/chIcons/1229.png"  timeshift="3", MM Агата Кристи HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1232"  tvg-logo="http://tv.team/images/chIcons/1232.png"  timeshift="3", MM Боевик Classic HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1233"  tvg-logo="http://tv.team/images/chIcons/1233.png"  timeshift="3", MM Боевик HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1234"  tvg-logo="http://tv.team/images/chIcons/1234.png"  timeshift="3", MM Вестерн HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1237"  tvg-logo="http://tv.team/images/chIcons/1237.png"  timeshift="3", MM Затмение HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1238"  tvg-logo="http://tv.team/images/chIcons/1238.png"  timeshift="3", MM История HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1239"  tvg-logo="http://tv.team/images/chIcons/1239.png"  timeshift="3", MM Катастрофа HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1241"  tvg-logo="http://tv.team/images/chIcons/1241.png"  timeshift="3", MM Киберпанк HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1242"  tvg-logo="http://tv.team/images/chIcons/1242.png"  timeshift="3", MM Комедия Classic HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1243"  tvg-logo="http://tv.team/images/chIcons/1243.png"  timeshift="3", MM Комедия HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1244"  tvg-logo="http://tv.team/images/chIcons/1244.png"  timeshift="3", MM Криминал HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1245"  tvg-logo="http://tv.team/images/chIcons/1245.png"  timeshift="3", MM Крутые 90-е HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1246"  tvg-logo="http://tv.team/images/chIcons/1246.png"  timeshift="3", MM Кунг-Фу HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1249"  tvg-logo="http://tv.team/images/chIcons/1249.png"  timeshift="3", MM Мифология HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1252"  tvg-logo="http://tv.team/images/chIcons/1252.png"  timeshift="3", MM Погружение HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1255"  tvg-logo="http://tv.team/images/chIcons/1255.png"  timeshift="3", MM Роскино HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1250"  tvg-logo="http://tv.team/images/chIcons/1250.png"  timeshift="3", MM Нуар HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1254"  tvg-logo="http://tv.team/images/chIcons/1254.png"  timeshift="3", MM Приключения HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1230"  tvg-logo="http://tv.team/images/chIcons/1230.png"  timeshift="3", MM Грайндхаус HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1236"  tvg-logo="http://tv.team/images/chIcons/1236.png"  timeshift="0", MM Воронины HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1251"  tvg-logo="http://tv.team/images/chIcons/1251.png"  timeshift="3", MM Ситком 2.0 HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1253"  tvg-logo="http://tv.team/images/chIcons/1253.png"  timeshift="0", MM Полицейский с Рублёвки HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1256"  tvg-logo="http://tv.team/images/chIcons/1256.png"  timeshift="0", MM Сваты HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1257"  tvg-logo="http://tv.team/images/chIcons/1257.png"  timeshift="3", MM Ситком HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1258"  tvg-logo="http://tv.team/images/chIcons/1258.png"  timeshift="3", MM Скорость HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1259"  tvg-logo="http://tv.team/images/chIcons/1259.png"  timeshift="3", MM Спорт HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1260"  tvg-logo="http://tv.team/images/chIcons/1260.png"  timeshift="3", MM Стивен Кинг HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1261"  tvg-logo="http://tv.team/images/chIcons/1261.png"  timeshift="3", MM Супергерои HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1263"  tvg-logo="http://tv.team/images/chIcons/1263.png"  timeshift="3", MM Триллер HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1264"  tvg-logo="http://tv.team/images/chIcons/1264.png"  timeshift="3", MM Ужастик HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1266"  tvg-logo="http://tv.team/images/chIcons/1266.png"  timeshift="3", MM Синематограф HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1267"  tvg-logo="http://tv.team/images/chIcons/1267.png"  timeshift="3", MM Фантастика HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1268"  tvg-logo="http://tv.team/images/chIcons/1268.png"  timeshift="3", MM Фобия HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1274"  tvg-logo="http://tv.team/images/chIcons/1274.png"  timeshift="3", MM Семейный 1 HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1270"  tvg-logo="http://tv.team/images/chIcons/1270.png"  timeshift="3", MM Семейный 2 HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1223"  tvg-logo="http://tv.team/images/chIcons/1223.png"  timeshift="3", MM USSR 1941-1945 HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1273"  tvg-logo="http://tv.team/images/chIcons/1273.png"  timeshift="3", MM USSR Детектив HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1269"  tvg-logo="http://tv.team/images/chIcons/1269.png"  timeshift="3", MM USSR Приключения HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1224"  tvg-logo="http://tv.team/images/chIcons/1224.png"  timeshift="3", MM USSR Комедия HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1227"  tvg-logo="http://tv.team/images/chIcons/1227.png"  timeshift="3", MM USSR Фантастика HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1275"  tvg-logo="http://tv.team/images/chIcons/1275.png"  timeshift="3", MM Ужасы Classic HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1276"  tvg-logo="http://tv.team/images/chIcons/1276.png"  timeshift="3", MM Ужасы HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1286"  tvg-logo="http://tv.team/images/chIcons/1286.png"  timeshift="3", MM Celebrity HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1323"  tvg-logo="http://tv.team/images/chIcons/1323.png"  timeshift="3", MM Classic HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1324"  tvg-logo="http://tv.team/images/chIcons/1324.png"  timeshift="3", MM Драма HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1621"  tvg-logo="http://tv.team/images/chIcons/1621.png"  timeshift="3", MM Translation HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch382"  tvg-logo="http://tv.team/images/chIcons/382.png"  timeshift="3", Premiere HD 1
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch383"  tvg-logo="http://tv.team/images/chIcons/383.png"  timeshift="3", Premiere HD 2
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch384"  tvg-logo="http://tv.team/images/chIcons/384.png"  timeshift="3", Premiere HD 3
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch385"  tvg-logo="http://tv.team/images/chIcons/385.png"  timeshift="3", Premiere HD 4
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1288"  tvg-logo="http://tv.team/images/chIcons/1288.png"  timeshift="3", MS Crime HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1289"  tvg-logo="http://tv.team/images/chIcons/1289.png"  timeshift="0", MS Prisons HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1291"  tvg-logo="http://tv.team/images/chIcons/1291.png"  timeshift="0", MS Young Blood HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1297"  tvg-logo="http://tv.team/images/chIcons/1297.png"  timeshift="3", Yosso TV Grand
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1298"  tvg-logo="http://tv.team/images/chIcons/1298.png"  timeshift="3", Yosso TV VHS
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1300"  tvg-logo="http://tv.team/images/chIcons/1300.png"  timeshift="3", Yosso TV Русские Фильмы
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1301"  tvg-logo="http://tv.team/images/chIcons/1301.png"  timeshift="3", Yosso TV Советские Фильмы
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1303"  tvg-logo="http://tv.team/images/chIcons/1303.png"  timeshift="3", Yosso TV New Кино
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1306"  tvg-logo="http://tv.team/images/chIcons/1306.png"  timeshift="3", Yosso TV Трагичное
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1307"  tvg-logo="http://tv.team/images/chIcons/1307.png"  timeshift="3", Yosso TV Забавное
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1308"  tvg-logo="http://tv.team/images/chIcons/1308.png"  timeshift="3", Yosso TV Best
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1309"  tvg-logo="http://tv.team/images/chIcons/1309.png"  timeshift="3", Yosso TV Ковбойское
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1310"  tvg-logo="http://tv.team/images/chIcons/1310.png"  timeshift="3", Yosso TV Adrenaline
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1311"  tvg-logo="http://tv.team/images/chIcons/1311.png"  timeshift="3", Yosso TV Oblivion
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1312"  tvg-logo="http://tv.team/images/chIcons/1312.png"  timeshift="3", Yosso TV Adventure
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1313"  tvg-logo="http://tv.team/images/chIcons/1313.png"  timeshift="3", Yosso TV Thriller
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2062"  tvg-logo="http://tv.team/images/chIcons/2062.png"  timeshift="3", Yosso TV Мелодрама
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2455"  tvg-logo="http://tv.team/images/chIcons/2455.png"  timeshift="0", Yosso TV Netflix
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2457"  tvg-logo="http://tv.team/images/chIcons/2457.png"  timeshift="0", Yosso TV Best 60fps
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1315"  tvg-logo="http://tv.team/images/chIcons/1315.png"  timeshift="0", Yosso TV C-Marvel
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1001"  tvg-logo="http://tv.team/images/chIcons/1001.png"  timeshift="0", Yosso TV C-Inquest
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1002"  tvg-logo="http://tv.team/images/chIcons/1002.png"  timeshift="3", Yosso TV C-Comedy
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1575"  tvg-logo="http://tv.team/images/chIcons/1575.png"  timeshift="0", Yosso TV C-History HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1556"  tvg-logo="http://tv.team/images/chIcons/1556.png"  timeshift="3", Magic Action
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2203"  tvg-logo="http://tv.team/images/chIcons/2203.png"  timeshift="3", Magic Adventure
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1557"  tvg-logo="http://tv.team/images/chIcons/1557.png"  timeshift="3", Magic Comedy
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1559"  tvg-logo="http://tv.team/images/chIcons/1559.png"  timeshift="3", Magic Galaxy
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1560"  tvg-logo="http://tv.team/images/chIcons/1560.png"  timeshift="3", Magic Horror
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch992"  tvg-logo="http://tv.team/images/chIcons/992.png"  timeshift="3", Magic Russian
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1561"  tvg-logo="http://tv.team/images/chIcons/1561.png"  timeshift="3", Magic Karate
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1562"  tvg-logo="http://tv.team/images/chIcons/1562.png"  timeshift="3", Magic Thriller
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1563"  tvg-logo="http://tv.team/images/chIcons/1563.png"  timeshift="3", Magic VHS
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1581"  tvg-logo="http://tv.team/images/chIcons/1581.png"  timeshift="3", Magic Love
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1582"  tvg-logo="http://tv.team/images/chIcons/1582.png"  timeshift="3", Magic Family
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1721"  tvg-logo="http://tv.team/images/chIcons/1721.png"  timeshift="3", Fresh Adventure
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1722"  tvg-logo="http://tv.team/images/chIcons/1722.png"  timeshift="3", Fresh Cinema
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1723"  tvg-logo="http://tv.team/images/chIcons/1723.png"  timeshift="3", Fresh Comedy
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1724"  tvg-logo="http://tv.team/images/chIcons/1724.png"  timeshift="3", Fresh Family
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1725"  tvg-logo="http://tv.team/images/chIcons/1725.png"  timeshift="3", Fresh Fantastic
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1726"  tvg-logo="http://tv.team/images/chIcons/1726.png"  timeshift="3", Fresh Horror
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1727"  tvg-logo="http://tv.team/images/chIcons/1727.png"  timeshift="3", Fresh Premiere
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1728"  tvg-logo="http://tv.team/images/chIcons/1728.png"  timeshift="3", Fresh Rating
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1729"  tvg-logo="http://tv.team/images/chIcons/1729.png"  timeshift="3", Fresh Romantic
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1730"  tvg-logo="http://tv.team/images/chIcons/1730.png"  timeshift="3", Fresh Russian
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1731"  tvg-logo="http://tv.team/images/chIcons/1731.png"  timeshift="3", Fresh Series
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1732"  tvg-logo="http://tv.team/images/chIcons/1732.png"  timeshift="3", Fresh Soviet
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1733"  tvg-logo="http://tv.team/images/chIcons/1733.png"  timeshift="3", Fresh Thriller
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1734"  tvg-logo="http://tv.team/images/chIcons/1734.png"  timeshift="3", Fresh Vhs
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1741"  tvg-logo="http://tv.team/images/chIcons/1741.png"  timeshift="3", Liberty DC FHD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1745"  tvg-logo="http://tv.team/images/chIcons/1745.png"  timeshift="3", Liberty Короткометражный FHD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1748"  tvg-logo="http://tv.team/images/chIcons/1748.png"  timeshift="3", Liberty Мелодрамы FHD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1749"  tvg-logo="http://tv.team/images/chIcons/1749.png"  timeshift="3", Liberty Боевики FHD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1752"  tvg-logo="http://tv.team/images/chIcons/1752.png"  timeshift="3", Liberty Сваты FHD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1754"  tvg-logo="http://tv.team/images/chIcons/1754.png"  timeshift="3", Liberty Комедии FHD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1755"  tvg-logo="http://tv.team/images/chIcons/1755.png"  timeshift="3", Liberty Сериалы FHD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1760"  tvg-logo="http://tv.team/images/chIcons/1760.png"  timeshift="3", Liberty Занавес FHD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1761"  tvg-logo="http://tv.team/images/chIcons/1761.png"  timeshift="3", Liberty Аниме FHD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1762"  tvg-logo="http://tv.team/images/chIcons/1762.png"  timeshift="3", Liberty Шоу FHD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1574"  tvg-logo="http://tv.team/images/chIcons/1574.png"  timeshift="3", Liberty Fan FHD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2341"  tvg-logo="http://tv.team/images/chIcons/2341.png"  timeshift="0", Liberty Plankton FHD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1069"  tvg-logo="http://tv.team/images/chIcons/1069.png"  timeshift="0", TOP 80
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1068"  tvg-logo="http://tv.team/images/chIcons/1068.png"  timeshift="0", TOP Великолепный Век
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1070"  tvg-logo="http://tv.team/images/chIcons/1070.png"  timeshift="0", TOP BUDO HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1071"  tvg-logo="http://tv.team/images/chIcons/1071.png"  timeshift="0", TOP CINEMA HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1072"  tvg-logo="http://tv.team/images/chIcons/1072.png"  timeshift="0", TOP USSR
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1073"  tvg-logo="http://tv.team/images/chIcons/1073.png"  timeshift="0", TOP MIX HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1961"  tvg-logo="http://tv.team/images/chIcons/1961.png"  timeshift="3", Sky High Heroes HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1962"  tvg-logo="http://tv.team/images/chIcons/1962.png"  timeshift="3", Sky High Epoch HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1963"  tvg-logo="http://tv.team/images/chIcons/1963.png"  timeshift="3", Sky High Fresh HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1964"  tvg-logo="http://tv.team/images/chIcons/1964.png"  timeshift="3", Sky High Man HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1965"  tvg-logo="http://tv.team/images/chIcons/1965.png"  timeshift="3", Sky High Series HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1966"  tvg-logo="http://tv.team/images/chIcons/1966.png"  timeshift="3", Sky High Russian HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1967"  tvg-logo="http://tv.team/images/chIcons/1967.png"  timeshift="0", Sky High Чбу HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1968"  tvg-logo="http://tv.team/images/chIcons/1968.png"  timeshift="3", Sky High Future HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1969"  tvg-logo="http://tv.team/images/chIcons/1969.png"  timeshift="3", Sky High Spirit HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1970"  tvg-logo="http://tv.team/images/chIcons/1970.png"  timeshift="3", Sky High Anime HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1971"  tvg-logo="http://tv.team/images/chIcons/1971.png"  timeshift="3", Sky High Mix 4K
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1972"  tvg-logo="http://tv.team/images/chIcons/1972.png"  timeshift="3", Sky High VHS UHD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1973"  tvg-logo="http://tv.team/images/chIcons/1973.png"  timeshift="3", Sky High Fresh 60 HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1974"  tvg-logo="http://tv.team/images/chIcons/1974.png"  timeshift="0", Sky High Fresh HDR
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1975"  tvg-logo="http://tv.team/images/chIcons/1975.png"  timeshift="3", Sky High UHD HDR
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1976"  tvg-logo="http://tv.team/images/chIcons/1976.png"  timeshift="3", Sky High Orig HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch1977"  tvg-logo="http://tv.team/images/chIcons/1977.png"  timeshift="3", Sky High 3D
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2266"  tvg-logo="http://tv.team/images/chIcons/2266.png"  timeshift="3", KLI Premium HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2267"  tvg-logo="http://tv.team/images/chIcons/2267.png"  timeshift="3", KLI Cinema HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2268"  tvg-logo="http://tv.team/images/chIcons/2268.png"  timeshift="3", KLI Comedy HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2269"  tvg-logo="http://tv.team/images/chIcons/2269.png"  timeshift="3", KLI History HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2270"  tvg-logo="http://tv.team/images/chIcons/2270.png"  timeshift="3", KLI Russian HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2271"  tvg-logo="http://tv.team/images/chIcons/2271.png"  timeshift="3", KLI Fantastic HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2272"  tvg-logo="http://tv.team/images/chIcons/2272.png"  timeshift="3", KLI VHS HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2273"  tvg-logo="http://tv.team/images/chIcons/2273.png"  timeshift="3", KLI Thriller HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2274"  tvg-logo="http://tv.team/images/chIcons/2274.png"  timeshift="3", KLI USSR HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2275"  tvg-logo="http://tv.team/images/chIcons/2275.png"  timeshift="3", KLI Family HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2276"  tvg-logo="http://tv.team/images/chIcons/2276.png"  timeshift="3", KLI Kinoseries
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2277"  tvg-logo="http://tv.team/images/chIcons/2277.png"  timeshift="3", KLI Horror HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2278"  tvg-logo="http://tv.team/images/chIcons/2278.png"  timeshift="3", KLI Action HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2279"  tvg-logo="http://tv.team/images/chIcons/2279.png"  timeshift="3", KLI Drama HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2280"  tvg-logo="http://tv.team/images/chIcons/2280.png"  timeshift="3", KLI Fantasy HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2281"  tvg-logo="http://tv.team/images/chIcons/2281.png"  timeshift="3", BOX Anime HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2285"  tvg-logo="http://tv.team/images/chIcons/2285.png"  timeshift="3", BOX Cyber HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2287"  tvg-logo="http://tv.team/images/chIcons/2287.png"  timeshift="3", BOX Fantasy HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2288"  tvg-logo="http://tv.team/images/chIcons/2288.png"  timeshift="3", BOX Franchise HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2290"  tvg-logo="http://tv.team/images/chIcons/2290.png"  timeshift="3", BOX Gangster HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2291"  tvg-logo="http://tv.team/images/chIcons/2291.png"  timeshift="3", BOX Ghost HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2292"  tvg-logo="http://tv.team/images/chIcons/2292.png"  timeshift="3", BOX Hybrid HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2296"  tvg-logo="http://tv.team/images/chIcons/2296.png"  timeshift="3", BOX Oscar HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2301"  tvg-logo="http://tv.team/images/chIcons/2301.png"  timeshift="3", BOX Serial HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2302"  tvg-logo="http://tv.team/images/chIcons/2302.png"  timeshift="3", BOX Spy HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2305"  tvg-logo="http://tv.team/images/chIcons/2305.png"  timeshift="3", BOX Western HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch2306"  tvg-logo="http://tv.team/images/chIcons/2306.png"  timeshift="3", BOX Zombie HD
+#EXTGRP:4. Cinemas/Кинозалы
+#EXTINF:0 tvg-name="ch512"  tvg-logo="http://tv.team/images/chIcons/512.png"  timeshift="0", Insight UHD
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch553"  tvg-logo="http://tv.team/images/chIcons/553.png"  timeshift="3", BCU Premiere Ultra 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch511"  tvg-logo="http://tv.team/images/chIcons/511.png"  timeshift="3", Кино UHD
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch558"  tvg-logo="http://tv.team/images/chIcons/558.png"  timeshift="3", Cinema UHD
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch642"  tvg-logo="http://tv.team/images/chIcons/642.png"  timeshift="3", Сериал UHD
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch849"  tvg-logo="http://tv.team/images/chIcons/849.png"  timeshift="3", BCU Ultra 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1262"  tvg-logo="http://tv.team/images/chIcons/1262.png"  timeshift="3", MM Flip UHD
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch527"  tvg-logo="http://tv.team/images/chIcons/527.png"  timeshift="0", Museum UHD
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch566"  tvg-logo="http://tv.team/images/chIcons/566.png"  timeshift="3", Глазами туриста 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch640"  tvg-logo="http://tv.team/images/chIcons/640.png"  timeshift="0", Наша сибирь 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1316"  tvg-logo="http://tv.team/images/chIcons/1316.png"  timeshift="3", Yosso 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1428"  tvg-logo="http://tv.team/images/chIcons/1428.png"  timeshift="3", BCU Kids 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch613"  tvg-logo="http://tv.team/images/chIcons/613.png"  timeshift="0", Travelxp 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch654"  tvg-logo="http://tv.team/images/chIcons/654.png"  timeshift="0", Love Nature 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch727"  tvg-logo="http://tv.team/images/chIcons/727.png"  timeshift="0", Aquarium 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1041"  tvg-logo="http://tv.team/images/chIcons/1041.png"  timeshift="0", Quadro 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch551"  tvg-logo="http://tv.team/images/chIcons/551.png"  timeshift="0", Home 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch665"  tvg-logo="http://tv.team/images/chIcons/665.png"  timeshift="0", MyZen 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1763"  tvg-logo="http://tv.team/images/chIcons/1763.png"  timeshift="3", Liberty КиноENG 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1765"  tvg-logo="http://tv.team/images/chIcons/1765.png"  timeshift="3", Liberty Легенда 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1769"  tvg-logo="http://tv.team/images/chIcons/1769.png"  timeshift="3", Liberty Русфильм 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1770"  tvg-logo="http://tv.team/images/chIcons/1770.png"  timeshift="3", Liberty Кино Микс 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1771"  tvg-logo="http://tv.team/images/chIcons/1771.png"  timeshift="3", Liberty Мульт 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1764"  tvg-logo="http://tv.team/images/chIcons/1764.png"  timeshift="3", Liberty МультENG 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1772"  tvg-logo="http://tv.team/images/chIcons/1772.png"  timeshift="3", Liberty Индия 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1773"  tvg-logo="http://tv.team/images/chIcons/1773.png"  timeshift="3", Liberty Netflix 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1744"  tvg-logo="http://tv.team/images/chIcons/1744.png"  timeshift="3", Liberty Marvel 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1774"  tvg-logo="http://tv.team/images/chIcons/1774.png"  timeshift="3", Liberty Куб 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1775"  tvg-logo="http://tv.team/images/chIcons/1775.png"  timeshift="3", Liberty Семейный 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1743"  tvg-logo="http://tv.team/images/chIcons/1743.png"  timeshift="3", Liberty Триллеры 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1742"  tvg-logo="http://tv.team/images/chIcons/1742.png"  timeshift="3", Liberty Ужасы 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1776"  tvg-logo="http://tv.team/images/chIcons/1776.png"  timeshift="3", Liberty Туркфильм 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch1780"  tvg-logo="http://tv.team/images/chIcons/1780.png"  timeshift="3", Liberty Союз 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch2342"  tvg-logo="http://tv.team/images/chIcons/2342.png"  timeshift="0", Liberty Criminal 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch2063"  tvg-logo="http://tv.team/images/chIcons/2063.png"  timeshift="3", Yosso TV Советские фильмы 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch2295"  tvg-logo="http://tv.team/images/chIcons/2295.png"  timeshift="0", BOX Music 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch2297"  tvg-logo="http://tv.team/images/chIcons/2297.png"  timeshift="3", BOX Premiere 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch2298"  tvg-logo="http://tv.team/images/chIcons/2298.png"  timeshift="3", BOX Relax 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch2299"  tvg-logo="http://tv.team/images/chIcons/2299.png"  timeshift="3", BOX Remast 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch2300"  tvg-logo="http://tv.team/images/chIcons/2300.png"  timeshift="3", BOX Serial 4K
+#EXTGRP:5. UHD
+#EXTINF:0 tvg-name="ch045"  tvg-logo="http://tv.team/images/chIcons/45.png"  timeshift="3", Мульт HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch081"  tvg-logo="http://tv.team/images/chIcons/81.png"  timeshift="3", Cartoon Network
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch041"  tvg-logo="http://tv.team/images/chIcons/41.png"  timeshift="3", Солнце
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch042"  tvg-logo="http://tv.team/images/chIcons/42.png"  timeshift="3", TiJi
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch043"  tvg-logo="http://tv.team/images/chIcons/43.png"  timeshift="3", Gulli Girl
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch044"  tvg-logo="http://tv.team/images/chIcons/44.png"  timeshift="3", Детский мир
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch082"  tvg-logo="http://tv.team/images/chIcons/82.png"  timeshift="3", Мама
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch119"  tvg-logo="http://tv.team/images/chIcons/119.png"  timeshift="3", В гостях у сказки
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch323"  tvg-logo="http://tv.team/images/chIcons/323.png"  timeshift="3", Канал О
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch479"  tvg-logo="http://tv.team/images/chIcons/479.png"  timeshift="3", Nickelodeon HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch379"  tvg-logo="http://tv.team/images/chIcons/379.png"  timeshift="3", Nick Jr
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch478"  tvg-logo="http://tv.team/images/chIcons/478.png"  timeshift="3", Уникум HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch040"  tvg-logo="http://tv.team/images/chIcons/40.png"  timeshift="3", Карусель
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch480"  tvg-logo="http://tv.team/images/chIcons/480.png"  timeshift="3", Карусель +2
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch481"  tvg-logo="http://tv.team/images/chIcons/481.png"  timeshift="3", Карусель +4
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch482"  tvg-logo="http://tv.team/images/chIcons/482.png"  timeshift="3", Карусель +6
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch483"  tvg-logo="http://tv.team/images/chIcons/483.png"  timeshift="3", СТС Kids HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch484"  tvg-logo="http://tv.team/images/chIcons/484.png"  timeshift="3", Мультимузыка
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch485"  tvg-logo="http://tv.team/images/chIcons/485.png"  timeshift="3", JimJam
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch486"  tvg-logo="http://tv.team/images/chIcons/486.png"  timeshift="3", Cartoonito
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch487"  tvg-logo="http://tv.team/images/chIcons/487.png"  timeshift="3", Радость Моя
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch488"  tvg-logo="http://tv.team/images/chIcons/488.png"  timeshift="3", Ani
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch489"  tvg-logo="http://tv.team/images/chIcons/489.png"  timeshift="3", Baby TV
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch2314"  tvg-logo="http://tv.team/images/chIcons/2314.png"  timeshift="0", Baby Time
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch617"  tvg-logo="http://tv.team/images/chIcons/617.png"  timeshift="3", Малыш
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch618"  tvg-logo="http://tv.team/images/chIcons/618.png"  timeshift="3", Рыжий
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch634"  tvg-logo="http://tv.team/images/chIcons/634.png"  timeshift="3", Мультиландия
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch638"  tvg-logo="http://tv.team/images/chIcons/638.png"  timeshift="3", Капитан Фантастика HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch707"  tvg-logo="http://tv.team/images/chIcons/707.png"  timeshift="3", Duck HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch2080"  tvg-logo="http://tv.team/images/chIcons/2080.png"  timeshift="0", Лёва
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch425"  tvg-logo="http://tv.team/images/chIcons/425.png"  timeshift="3", Чижик
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch786"  tvg-logo="http://tv.team/images/chIcons/786.png"  timeshift="3", BCU Kids HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch559"  tvg-logo="http://tv.team/images/chIcons/559.png"  timeshift="3", BCU Kids+ HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch787"  tvg-logo="http://tv.team/images/chIcons/787.png"  timeshift="3", BCU Мультсериал HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1022"  tvg-logo="http://tv.team/images/chIcons/1022.png"  timeshift="3", KBC-Союз Мультзал
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1027"  tvg-logo="http://tv.team/images/chIcons/1027.png"  timeshift="3", Cartoons 90
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1028"  tvg-logo="http://tv.team/images/chIcons/1028.png"  timeshift="3", Cartoons Short
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1029"  tvg-logo="http://tv.team/images/chIcons/1029.png"  timeshift="3", Cartoons Big
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1670"  tvg-logo="http://tv.team/images/chIcons/1670.png"  timeshift="0", Cineman Симпсоны
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1221"  tvg-logo="http://tv.team/images/chIcons/1221.png"  timeshift="0", MM Tom and Jerry HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1225"  tvg-logo="http://tv.team/images/chIcons/1225.png"  timeshift="3", MM USSR Мультфильм HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1226"  tvg-logo="http://tv.team/images/chIcons/1226.png"  timeshift="3", MM USSR Сказки HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1231"  tvg-logo="http://tv.team/images/chIcons/1231.png"  timeshift="0", MM Honey HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1247"  tvg-logo="http://tv.team/images/chIcons/1247.png"  timeshift="0", MM Lesson HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1248"  tvg-logo="http://tv.team/images/chIcons/1248.png"  timeshift="0", MM Smile HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1265"  tvg-logo="http://tv.team/images/chIcons/1265.png"  timeshift="0", MM Walt Disney HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1954"  tvg-logo="http://tv.team/images/chIcons/1954.png"  timeshift="0", MM Гриффины HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1299"  tvg-logo="http://tv.team/images/chIcons/1299.png"  timeshift="3", Yosso TV Kids
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch2061"  tvg-logo="http://tv.team/images/chIcons/2061.png"  timeshift="3", Yosso TV Наше Детское
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1304"  tvg-logo="http://tv.team/images/chIcons/1304.png"  timeshift="3", Yosso TV Союзмульт
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1314"  tvg-logo="http://tv.team/images/chIcons/1314.png"  timeshift="0", Yosso TV Cartoon
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch2456"  tvg-logo="http://tv.team/images/chIcons/2456.png"  timeshift="0", Yosso TV Disney
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1634"  tvg-logo="http://tv.team/images/chIcons/1634.png"  timeshift="3", BCU Little HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1287"  tvg-logo="http://tv.team/images/chIcons/1287.png"  timeshift="0", MS Animated HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1290"  tvg-logo="http://tv.team/images/chIcons/1290.png"  timeshift="0", MS Toons HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1558"  tvg-logo="http://tv.team/images/chIcons/1558.png"  timeshift="3", Magic Disney
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1735"  tvg-logo="http://tv.team/images/chIcons/1735.png"  timeshift="3", Fresh Kids
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1746"  tvg-logo="http://tv.team/images/chIcons/1746.png"  timeshift="3", Liberty Pixar FHD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1747"  tvg-logo="http://tv.team/images/chIcons/1747.png"  timeshift="3", Liberty Disney FHD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1751"  tvg-logo="http://tv.team/images/chIcons/1751.png"  timeshift="3", Liberty Симпсоны FHD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1753"  tvg-logo="http://tv.team/images/chIcons/1753.png"  timeshift="3", Liberty South Park FHD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1759"  tvg-logo="http://tv.team/images/chIcons/1759.png"  timeshift="3", Liberty Бебимульт FHD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1778"  tvg-logo="http://tv.team/images/chIcons/1778.png"  timeshift="3", Liberty Сказки FHD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1779"  tvg-logo="http://tv.team/images/chIcons/1779.png"  timeshift="3", Liberty Мим FHD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1956"  tvg-logo="http://tv.team/images/chIcons/1956.png"  timeshift="3", Sky High Bunny HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch1982"  tvg-logo="http://tv.team/images/chIcons/1982.png"  timeshift="3", Sky High Kids USSR
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch2264"  tvg-logo="http://tv.team/images/chIcons/2264.png"  timeshift="3", KLI Kids HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch2265"  tvg-logo="http://tv.team/images/chIcons/2265.png"  timeshift="3", KLI Мультики HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch2293"  tvg-logo="http://tv.team/images/chIcons/2293.png"  timeshift="3", BOX M.Serial HD
+#EXTGRP:6. Kids/Детские
+#EXTINF:0 tvg-name="ch2126"  tvg-logo="http://tv.team/images/chIcons/2126.png"  timeshift="1", Матч! SD
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch2123"  tvg-logo="http://tv.team/images/chIcons/2123.png"  timeshift="3", Матч! Футбол 1 SD
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch2124"  tvg-logo="http://tv.team/images/chIcons/2124.png"  timeshift="3", Матч! Футбол 2 SD
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch2125"  tvg-logo="http://tv.team/images/chIcons/2125.png"  timeshift="3", Матч! Футбол 3 SD
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch2005"  tvg-logo="http://tv.team/images/chIcons/2005.png"  timeshift="0", Матч! Премьер SD
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch708"  tvg-logo="http://tv.team/images/chIcons/708.png"  timeshift="0", Футбольный HD
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch447"  tvg-logo="http://tv.team/images/chIcons/447.png"  timeshift="0", Спортивный HD
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch663"  tvg-logo="http://tv.team/images/chIcons/663.png"  timeshift="0", Хоккейный HD
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch1880"  tvg-logo="http://tv.team/images/chIcons/1880.png"  timeshift="0", Живи Активно HD
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch2282"  tvg-logo="http://tv.team/images/chIcons/2282.png"  timeshift="3", BOX Be ON Edge HD
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch2283"  tvg-logo="http://tv.team/images/chIcons/2283.png"  timeshift="3", BOX Be ON Edge 1 live HD
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch2284"  tvg-logo="http://tv.team/images/chIcons/2284.png"  timeshift="3", BOX Be ON Edge 2 live HD
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch2336"  tvg-logo="http://tv.team/images/chIcons/2336.png"  timeshift="0", Box Sport Cast 1 Live
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch2337"  tvg-logo="http://tv.team/images/chIcons/2337.png"  timeshift="0", Box Sport Cast 2 Live
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch2338"  tvg-logo="http://tv.team/images/chIcons/2338.png"  timeshift="0", Box Sport Cast 3 Live
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch2339"  tvg-logo="http://tv.team/images/chIcons/2339.png"  timeshift="0", Box Sport Cast 4 Live
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch2340"  tvg-logo="http://tv.team/images/chIcons/2340.png"  timeshift="0", Box Sport Cast 5 Live
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch1768"  tvg-logo="http://tv.team/images/chIcons/1768.png"  timeshift="3", Liberty Автогир FHD
+#EXTGRP:7. Sport/Спорт
+#EXTINF:0 tvg-name="ch030"  tvg-logo="http://tv.team/images/chIcons/30.png"  timeshift="3", MTV Russia
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch552"  tvg-logo="http://tv.team/images/chIcons/552.png"  timeshift="0", MTV Live HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch031"  tvg-logo="http://tv.team/images/chIcons/31.png"  timeshift="0", MTV Club
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch019"  tvg-logo="http://tv.team/images/chIcons/19.png"  timeshift="0", MTV Hits
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch029"  tvg-logo="http://tv.team/images/chIcons/29.png"  timeshift="0", MTV 80s
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch594"  tvg-logo="http://tv.team/images/chIcons/594.png"  timeshift="0", MTV 90s
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch028"  tvg-logo="http://tv.team/images/chIcons/28.png"  timeshift="0", MTV 00s
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch020"  tvg-logo="http://tv.team/images/chIcons/20.png"  timeshift="0", МУЗ
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch328"  tvg-logo="http://tv.team/images/chIcons/328.png"  timeshift="0", 1HD Music
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch027"  tvg-logo="http://tv.team/images/chIcons/27.png"  timeshift="0", RU.TV
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch490"  tvg-logo="http://tv.team/images/chIcons/490.png"  timeshift="0", Bridge TV
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch491"  tvg-logo="http://tv.team/images/chIcons/491.png"  timeshift="0", Bridge TV Deluxe HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch492"  tvg-logo="http://tv.team/images/chIcons/492.png"  timeshift="0", Bridge TV Classic
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch493"  tvg-logo="http://tv.team/images/chIcons/493.png"  timeshift="0", Bridge TV Hits
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch494"  tvg-logo="http://tv.team/images/chIcons/494.png"  timeshift="0", Bridge TV Русский хит
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch644"  tvg-logo="http://tv.team/images/chIcons/644.png"  timeshift="0", Bridge TV Rock
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch548"  tvg-logo="http://tv.team/images/chIcons/548.png"  timeshift="0", Bridge TV Шлягер
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch130"  tvg-logo="http://tv.team/images/chIcons/130.png"  timeshift="0", Mezzo Live HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch324"  tvg-logo="http://tv.team/images/chIcons/324.png"  timeshift="0", iConcerts HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch325"  tvg-logo="http://tv.team/images/chIcons/325.png"  timeshift="0", Шансон TB
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch497"  tvg-logo="http://tv.team/images/chIcons/497.png"  timeshift="0", MCM TOP
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch523"  tvg-logo="http://tv.team/images/chIcons/523.png"  timeshift="0", Ля-минор
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch529"  tvg-logo="http://tv.team/images/chIcons/529.png"  timeshift="0", Жара HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch402"  tvg-logo="http://tv.team/images/chIcons/402.png"  timeshift="0", Trace urban
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch554"  tvg-logo="http://tv.team/images/chIcons/554.png"  timeshift="0", O2TV HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch555"  tvg-logo="http://tv.team/images/chIcons/555.png"  timeshift="0", Russian MusicBox HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch615"  tvg-logo="http://tv.team/images/chIcons/615.png"  timeshift="0", Музыка Первого
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch631"  tvg-logo="http://tv.team/images/chIcons/631.png"  timeshift="0", 4 Ever music HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch650"  tvg-logo="http://tv.team/images/chIcons/650.png"  timeshift="0", Music Box Gold
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch653"  tvg-logo="http://tv.team/images/chIcons/653.png"  timeshift="0", EU Music HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch660"  tvg-logo="http://tv.team/images/chIcons/660.png"  timeshift="0", C-Music HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch661"  tvg-logo="http://tv.team/images/chIcons/661.png"  timeshift="0", AIVA HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch715"  tvg-logo="http://tv.team/images/chIcons/715.png"  timeshift="0", Europa Plus TV HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch716"  tvg-logo="http://tv.team/images/chIcons/716.png"  timeshift="0", ТНТ Music HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch524"  tvg-logo="http://tv.team/images/chIcons/524.png"  timeshift="0", Clubbing TV HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch531"  tvg-logo="http://tv.team/images/chIcons/531.png"  timeshift="0", Жар Птица
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch588"  tvg-logo="http://tv.team/images/chIcons/588.png"  timeshift="0", Танцуй
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1220"  tvg-logo="http://tv.team/images/chIcons/1220.png"  timeshift="0", MM Rock HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1228"  tvg-logo="http://tv.team/images/chIcons/1228.png"  timeshift="0", MM World Hits HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1240"  tvg-logo="http://tv.team/images/chIcons/1240.png"  timeshift="0", MM Квартирник HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1305"  tvg-logo="http://tv.team/images/chIcons/1305.png"  timeshift="0", Yosso TV Music Hits
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1564"  tvg-logo="http://tv.team/images/chIcons/1564.png"  timeshift="0", Fresh Concerts
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1565"  tvg-logo="http://tv.team/images/chIcons/1565.png"  timeshift="0", Fresh Dance
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1566"  tvg-logo="http://tv.team/images/chIcons/1566.png"  timeshift="0", Fresh Lyrics
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1567"  tvg-logo="http://tv.team/images/chIcons/1567.png"  timeshift="0", Fresh Pop Hits
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1568"  tvg-logo="http://tv.team/images/chIcons/1568.png"  timeshift="0", Fresh Retro
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1569"  tvg-logo="http://tv.team/images/chIcons/1569.png"  timeshift="0", Fresh Rock Covers
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1570"  tvg-logo="http://tv.team/images/chIcons/1570.png"  timeshift="0", Fresh Russian Pop
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1571"  tvg-logo="http://tv.team/images/chIcons/1571.png"  timeshift="0", Fresh Russian Rap
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1572"  tvg-logo="http://tv.team/images/chIcons/1572.png"  timeshift="0", Fresh Sad Music
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1573"  tvg-logo="http://tv.team/images/chIcons/1573.png"  timeshift="0", Fresh Rock
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1757"  tvg-logo="http://tv.team/images/chIcons/1757.png"  timeshift="0", Liberty МиксMusic FHD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1014"  tvg-logo="http://tv.team/images/chIcons/1014.png"  timeshift="3", KBC-Second HIT
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1021"  tvg-logo="http://tv.team/images/chIcons/1021.png"  timeshift="3", KBC-Наш Rock
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch2064"  tvg-logo="http://tv.team/images/chIcons/2064.png"  timeshift="0", Yosso TV C-Live
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1921"  tvg-logo="http://tv.team/images/chIcons/1921.png"  timeshift="0", Stingray Djazz
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1922"  tvg-logo="http://tv.team/images/chIcons/1922.png"  timeshift="0", Stingray iConcerts
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1923"  tvg-logo="http://tv.team/images/chIcons/1923.png"  timeshift="0", Stingray Classica
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1957"  tvg-logo="http://tv.team/images/chIcons/1957.png"  timeshift="0", Sky High Concert HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1958"  tvg-logo="http://tv.team/images/chIcons/1958.png"  timeshift="0", Sky High Dance HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1959"  tvg-logo="http://tv.team/images/chIcons/1959.png"  timeshift="0", Sky High LO FI HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch1960"  tvg-logo="http://tv.team/images/chIcons/1960.png"  timeshift="0", Sky High Classic HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch2256"  tvg-logo="http://tv.team/images/chIcons/2256.png"  timeshift="0", KLI Music HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch2257"  tvg-logo="http://tv.team/images/chIcons/2257.png"  timeshift="0", KLI Retro HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch2258"  tvg-logo="http://tv.team/images/chIcons/2258.png"  timeshift="0", KLI Club HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch2259"  tvg-logo="http://tv.team/images/chIcons/2259.png"  timeshift="0", KLI Hit 90 HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch2260"  tvg-logo="http://tv.team/images/chIcons/2260.png"  timeshift="0", KLI Concert HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch2261"  tvg-logo="http://tv.team/images/chIcons/2261.png"  timeshift="0", KLI Шансон HD
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch2333"  tvg-logo="http://tv.team/images/chIcons/2333.png"  timeshift="0", Xmas Hits+
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch2334"  tvg-logo="http://tv.team/images/chIcons/2334.png"  timeshift="0", Music Hits+
+#EXTGRP:8. Music/Музыка
+#EXTINF:0 tvg-name="ch126"  tvg-logo="http://tv.team/images/chIcons/126.png"  timeshift="3", Viju History `HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch073"  tvg-logo="http://tv.team/images/chIcons/73.png"  timeshift="3", Наука 2.0
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch123"  tvg-logo="http://tv.team/images/chIcons/123.png"  timeshift="3", Discovery Channel HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch125"  tvg-logo="http://tv.team/images/chIcons/125.png"  timeshift="3", National Geographic HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch142"  tvg-logo="http://tv.team/images/chIcons/142.png"  timeshift="3", Моя Планета HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch143"  tvg-logo="http://tv.team/images/chIcons/143.png"  timeshift="0", Приключения HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch148"  tvg-logo="http://tv.team/images/chIcons/148.png"  timeshift="3", Тайны Галактики HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch327"  tvg-logo="http://tv.team/images/chIcons/327.png"  timeshift="0", Оружие
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch432"  tvg-logo="http://tv.team/images/chIcons/432.png"  timeshift="3", History HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch433"  tvg-logo="http://tv.team/images/chIcons/433.png"  timeshift="3", History2 HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch434"  tvg-logo="http://tv.team/images/chIcons/434.png"  timeshift="3", Investigation Discovery CEE HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch435"  tvg-logo="http://tv.team/images/chIcons/435.png"  timeshift="3", TLC HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch436"  tvg-logo="http://tv.team/images/chIcons/436.png"  timeshift="0", Космический HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch437"  tvg-logo="http://tv.team/images/chIcons/437.png"  timeshift="0", Нано HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch438"  tvg-logo="http://tv.team/images/chIcons/438.png"  timeshift="0", Техно 24
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch440"  tvg-logo="http://tv.team/images/chIcons/440.png"  timeshift="0", Доктор
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch441"  tvg-logo="http://tv.team/images/chIcons/441.png"  timeshift="3", Da Vinci
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch442"  tvg-logo="http://tv.team/images/chIcons/442.png"  timeshift="3", История
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch443"  tvg-logo="http://tv.team/images/chIcons/443.png"  timeshift="3", 365 дней ТВ
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch629"  tvg-logo="http://tv.team/images/chIcons/629.png"  timeshift="0", RTG TV
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch444"  tvg-logo="http://tv.team/images/chIcons/444.png"  timeshift="3", RTG HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch445"  tvg-logo="http://tv.team/images/chIcons/445.png"  timeshift="3", Travel Channel HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch446"  tvg-logo="http://tv.team/images/chIcons/446.png"  timeshift="3", Travel+Adventure HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch520"  tvg-logo="http://tv.team/images/chIcons/520.png"  timeshift="0", Пёс и Ко
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch522"  tvg-logo="http://tv.team/images/chIcons/522.png"  timeshift="0", Мужской
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch533"  tvg-logo="http://tv.team/images/chIcons/533.png"  timeshift="0", Большая Азия HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch539"  tvg-logo="http://tv.team/images/chIcons/539.png"  timeshift="0", Здоровое ТВ
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch614"  tvg-logo="http://tv.team/images/chIcons/614.png"  timeshift="0", Арсенал HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch630"  tvg-logo="http://tv.team/images/chIcons/630.png"  timeshift="0", Телекафе
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch632"  tvg-logo="http://tv.team/images/chIcons/632.png"  timeshift="0", Глазами туриста HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch656"  tvg-logo="http://tv.team/images/chIcons/656.png"  timeshift="3", DocuBox HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch659"  tvg-logo="http://tv.team/images/chIcons/659.png"  timeshift="0", Телепутешествия
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch664"  tvg-logo="http://tv.team/images/chIcons/664.png"  timeshift="0", Мир Вокруг HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch710"  tvg-logo="http://tv.team/images/chIcons/710.png"  timeshift="0", Поехали! HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch718"  tvg-logo="http://tv.team/images/chIcons/718.png"  timeshift="0", Smartzone HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch719"  tvg-logo="http://tv.team/images/chIcons/719.png"  timeshift="0", КтоКуда
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch720"  tvg-logo="http://tv.team/images/chIcons/720.png"  timeshift="0", Motor Trend HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch721"  tvg-logo="http://tv.team/images/chIcons/721.png"  timeshift="3", DTX HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch722"  tvg-logo="http://tv.team/images/chIcons/722.png"  timeshift="3", Discovery Science HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch723"  tvg-logo="http://tv.team/images/chIcons/723.png"  timeshift="3", HGTV HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch2078"  tvg-logo="http://tv.team/images/chIcons/2078.png"  timeshift="0", Terra HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch1952"  tvg-logo="http://tv.team/images/chIcons/1952.png"  timeshift="3", MM Experiment HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch1955"  tvg-logo="http://tv.team/images/chIcons/1955.png"  timeshift="0", MM Открытия HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch1983"  tvg-logo="http://tv.team/images/chIcons/1983.png"  timeshift="3", Sky High Doc UHD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch1984"  tvg-logo="http://tv.team/images/chIcons/1984.png"  timeshift="3", Sky High Brain HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch1777"  tvg-logo="http://tv.team/images/chIcons/1777.png"  timeshift="3", Liberty Наука FHD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch2294"  tvg-logo="http://tv.team/images/chIcons/2294.png"  timeshift="3", BOX Memory HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch2303"  tvg-logo="http://tv.team/images/chIcons/2303.png"  timeshift="3", BOX Stories HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch2304"  tvg-logo="http://tv.team/images/chIcons/2304.png"  timeshift="3", BOX Travel HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch2313"  tvg-logo="http://tv.team/images/chIcons/2313.png"  timeshift="3", BOX Mayday HD
+#EXTGRP:9. Educational/Образование
+#EXTINF:0 tvg-name="ch012"  tvg-logo="http://tv.team/images/chIcons/12.png"  timeshift="0", Viju Nature HD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch2454"  tvg-logo="http://tv.team/images/chIcons/2454.png"  timeshift="0", Viju+ Planet HD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch1916"  tvg-logo="http://tv.team/images/chIcons/1916.png"  timeshift="0", Big Planet
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch504"  tvg-logo="http://tv.team/images/chIcons/504.png"  timeshift="0", Усадьба
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch047"  tvg-logo="http://tv.team/images/chIcons/47.png"  timeshift="3", Nat Geo Wild HD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch067"  tvg-logo="http://tv.team/images/chIcons/67.png"  timeshift="0", Диалоги о рыбалке
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch069"  tvg-logo="http://tv.team/images/chIcons/69.png"  timeshift="0", Дикий
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch085"  tvg-logo="http://tv.team/images/chIcons/85.png"  timeshift="0", Охотник и рыболов HD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch124"  tvg-logo="http://tv.team/images/chIcons/124.png"  timeshift="3", Animal Planet HD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch141"  tvg-logo="http://tv.team/images/chIcons/141.png"  timeshift="3", В мире животных HD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch448"  tvg-logo="http://tv.team/images/chIcons/448.png"  timeshift="0", Охота и рыбалка
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch449"  tvg-logo="http://tv.team/images/chIcons/449.png"  timeshift="3", Дикая Охота HD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch450"  tvg-logo="http://tv.team/images/chIcons/450.png"  timeshift="3", Дикая Рыбалка HD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch452"  tvg-logo="http://tv.team/images/chIcons/452.png"  timeshift="0", Живая природа HD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch453"  tvg-logo="http://tv.team/images/chIcons/453.png"  timeshift="0", Живая Планета
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch624"  tvg-logo="http://tv.team/images/chIcons/624.png"  timeshift="0", Загородный
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch667"  tvg-logo="http://tv.team/images/chIcons/667.png"  timeshift="0", Загородный int HD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch728"  tvg-logo="http://tv.team/images/chIcons/728.png"  timeshift="0", Ocean TV
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch1271"  tvg-logo="http://tv.team/images/chIcons/1271.png"  timeshift="0", MM Live Planet HD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch1585"  tvg-logo="http://tv.team/images/chIcons/1585.png"  timeshift="3", MM Микромир HD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch1586"  tvg-logo="http://tv.team/images/chIcons/1586.png"  timeshift="3", MM Макромир HD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch1587"  tvg-logo="http://tv.team/images/chIcons/1587.png"  timeshift="3", MM Мегамир HD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch1750"  tvg-logo="http://tv.team/images/chIcons/1750.png"  timeshift="3", Liberty BBC FHD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch1758"  tvg-logo="http://tv.team/images/chIcons/1758.png"  timeshift="3", Liberty Планета360 FHD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch1978"  tvg-logo="http://tv.team/images/chIcons/1978.png"  timeshift="3", Sky High Nature 4K
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch1979"  tvg-logo="http://tv.team/images/chIcons/1979.png"  timeshift="3", Sky High Nature FHD
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch1980"  tvg-logo="http://tv.team/images/chIcons/1980.png"  timeshift="3", Sky High Nature 4K HDR
+#EXTGRP:10. Nature/Природа
+#EXTINF:0 tvg-name="ch011"  tvg-logo="http://tv.team/images/chIcons/11.png"  timeshift="3", Viju Explore HD
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch016"  tvg-logo="http://tv.team/images/chIcons/16.png"  timeshift="0", АВТО 24
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch026"  tvg-logo="http://tv.team/images/chIcons/26.png"  timeshift="0", Сарафан
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch046"  tvg-logo="http://tv.team/images/chIcons/46.png"  timeshift="0", Кухня ТВ
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch454"  tvg-logo="http://tv.team/images/chIcons/454.png"  timeshift="0", Foodtime HD
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch538"  tvg-logo="http://tv.team/images/chIcons/538.png"  timeshift="0", Еда
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch455"  tvg-logo="http://tv.team/images/chIcons/455.png"  timeshift="3", Food Network HD
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch075"  tvg-logo="http://tv.team/images/chIcons/75.png"  timeshift="0", БОБЁР
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch076"  tvg-logo="http://tv.team/images/chIcons/76.png"  timeshift="0", 2X2
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch422"  tvg-logo="http://tv.team/images/chIcons/422.png"  timeshift="0", 2х2 +2
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch106"  tvg-logo="http://tv.team/images/chIcons/106.png"  timeshift="3", КВН ТВ
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch107"  tvg-logo="http://tv.team/images/chIcons/107.png"  timeshift="0", Продвижение
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch109"  tvg-logo="http://tv.team/images/chIcons/109.png"  timeshift="3", Че
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch408"  tvg-logo="http://tv.team/images/chIcons/408.png"  timeshift="0", Че +4
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch111"  tvg-logo="http://tv.team/images/chIcons/111.png"  timeshift="0", СТС love
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch113"  tvg-logo="http://tv.team/images/chIcons/113.png"  timeshift="3", Ностальгия
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch118"  tvg-logo="http://tv.team/images/chIcons/118.png"  timeshift="0", Время
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch120"  tvg-logo="http://tv.team/images/chIcons/120.png"  timeshift="0", HТB Cтиль
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch122"  tvg-logo="http://tv.team/images/chIcons/122.png"  timeshift="0", HDL
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch392"  tvg-logo="http://tv.team/images/chIcons/392.png"  timeshift="3", НTВ Mир
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch729"  tvg-logo="http://tv.team/images/chIcons/729.png"  timeshift="3", Мир HD
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch403"  tvg-logo="http://tv.team/images/chIcons/403.png"  timeshift="0", Мир +2
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch404"  tvg-logo="http://tv.team/images/chIcons/404.png"  timeshift="0", Мир +6
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch405"  tvg-logo="http://tv.team/images/chIcons/405.png"  timeshift="0", ОТР
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch414"  tvg-logo="http://tv.team/images/chIcons/414.png"  timeshift="3", Суббота
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch415"  tvg-logo="http://tv.team/images/chIcons/415.png"  timeshift="0", Суббота +2
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch420"  tvg-logo="http://tv.team/images/chIcons/420.png"  timeshift="3", Ю
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch426"  tvg-logo="http://tv.team/images/chIcons/426.png"  timeshift="0", Вопросы и ответы
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch439"  tvg-logo="http://tv.team/images/chIcons/439.png"  timeshift="0", RTД HD
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch456"  tvg-logo="http://tv.team/images/chIcons/456.png"  timeshift="3", Авто плюс HD
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch503"  tvg-logo="http://tv.team/images/chIcons/503.png"  timeshift="0", E TV
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch507"  tvg-logo="http://tv.team/images/chIcons/507.png"  timeshift="0", Точка ТВ
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch516"  tvg-logo="http://tv.team/images/chIcons/516.png"  timeshift="0", 360 HD
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch517"  tvg-logo="http://tv.team/images/chIcons/517.png"  timeshift="0", Спас
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch518"  tvg-logo="http://tv.team/images/chIcons/518.png"  timeshift="0", Союз
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch534"  tvg-logo="http://tv.team/images/chIcons/534.png"  timeshift="0", Доверие
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch540"  tvg-logo="http://tv.team/images/chIcons/540.png"  timeshift="0", Красная линия
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch541"  tvg-logo="http://tv.team/images/chIcons/541.png"  timeshift="0", ЛДПР ТВ
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch546"  tvg-logo="http://tv.team/images/chIcons/546.png"  timeshift="0", Ювелирочка
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch550"  tvg-logo="http://tv.team/images/chIcons/550.png"  timeshift="0", Fashion TV HD
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch556"  tvg-logo="http://tv.team/images/chIcons/556.png"  timeshift="0", Shop and Show
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch612"  tvg-logo="http://tv.team/images/chIcons/612.png"  timeshift="0", НTВ Правo
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch616"  tvg-logo="http://tv.team/images/chIcons/616.png"  timeshift="0", Кто есть кто
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch625"  tvg-logo="http://tv.team/images/chIcons/625.png"  timeshift="0", Психология
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch626"  tvg-logo="http://tv.team/images/chIcons/626.png"  timeshift="0", Домашние животные
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch627"  tvg-logo="http://tv.team/images/chIcons/627.png"  timeshift="0", Зоопарк
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch628"  tvg-logo="http://tv.team/images/chIcons/628.png"  timeshift="0", Успех
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch633"  tvg-logo="http://tv.team/images/chIcons/633.png"  timeshift="0", Перец International
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch1524"  tvg-logo="http://tv.team/images/chIcons/1524.png"  timeshift="0", Анекдот ТВ
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch2068"  tvg-logo="http://tv.team/images/chIcons/2068.png"  timeshift="0", Womens Magazine
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch1879"  tvg-logo="http://tv.team/images/chIcons/1879.png"  timeshift="0", Зал Суда
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch1917"  tvg-logo="http://tv.team/images/chIcons/1917.png"  timeshift="0", Майдан
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch1918"  tvg-logo="http://tv.team/images/chIcons/1918.png"  timeshift="0", Татарстан Новый Век
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch2307"  tvg-logo="http://tv.team/images/chIcons/2307.png"  timeshift="0", Ключ ТВ
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch1235"  tvg-logo="http://tv.team/images/chIcons/1235.png"  timeshift="0", MM Relax HD
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch1953"  tvg-logo="http://tv.team/images/chIcons/1953.png"  timeshift="0", MM OldSchool HD
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch1985"  tvg-logo="http://tv.team/images/chIcons/1985.png"  timeshift="3", Sky High Standup HD
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch2262"  tvg-logo="http://tv.team/images/chIcons/2262.png"  timeshift="3", KLI Humor HD
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch2263"  tvg-logo="http://tv.team/images/chIcons/2263.png"  timeshift="3", KLI Docu HD
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch2286"  tvg-logo="http://tv.team/images/chIcons/2286.png"  timeshift="3", BOX Docu. HD
+#EXTGRP:11. Rest/Прочее
+#EXTINF:0 tvg-name="ch2289"  tvg-logo="http://tv.team/images/chIcons/2289.png"  timeshift="3", BOX Game HD
+#EXTGRP:11. Rest/Прочее
